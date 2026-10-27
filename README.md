@@ -49,3 +49,7 @@ TypeScript · Vercel serverless functions · Retell SDK (webhook signature) · T
 ## Scope
 
 A backend and a prompt library, not a full product: no UI, no database. Prompts are written in French (Belgian conventions) or English.
+
+## License
+
+[MIT](LICENSE): you are free to use, adapt and build on this code. Credit is appreciated.
